@@ -710,7 +710,7 @@ export default function App() {
                      className="inline-flex items-center justify-center gap-2 bg-primary/10 hover:bg-primary/20 text-primary px-6 py-2.5 rounded-full text-sm font-bold transition-all w-full md:w-auto shadow-sm hover:shadow-md"
                    >
                      <MapPin className="w-4 h-4" />
-                     Google Map પર જુઓ
+                     મેપ પર જુઓ
                    </a>
                 </div>
               </div>
@@ -734,7 +734,7 @@ export default function App() {
                      style={{ color: '#b58e10' }}
                    >
                      <MapPin className="w-4 h-4" />
-                     Google Map પર જુઓ
+                     મેપ પર જુઓ
                    </a>
                 </div>
               </div>
